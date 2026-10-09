@@ -1,4 +1,4 @@
-aid: home-federal-maritime-commission
+aid: fmc-gov
 name: Federal Maritime Commission
 description: >-
   The Federal Maritime Commission (FMC) is an independent agency of the
@@ -6,7 +6,7 @@ description: >-
   ocean transportation. The FMC oversees the practices of ocean common
   carriers, marine terminal operators, and other regulated entities.
 url: >-
-  https://raw.githubusercontent.com/api-evangelist/home-federal-maritime-commission/refs/heads/main/apis.yml
+  https://raw.githubusercontent.com/api-evangelist/fmc-gov/refs/heads/main/apis.yml
 type: Index
 deliveryModel:
   model: unknown

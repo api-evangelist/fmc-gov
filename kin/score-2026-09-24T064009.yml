@@ -1,11 +1,20 @@
+<<<<<<<< HEAD:kin/score-2026-09-24T064009.yml
 # Kin Score artifact — home-federal-maritime-commission — 2026-09-24T064009
+========
+# Kin Score artifact — home-federal-maritime-commission — 2026-09-22T213221
+>>>>>>>> origin/main:kin/score-2026-09-22T213221.yml
 # The API Evangelist rating (https://github.com/api-evangelist/kin-score). Generated; do not edit.
 ---
 kin_score:
   slug: home-federal-maritime-commission
   schema_version: 0.22.0
+<<<<<<<< HEAD:kin/score-2026-09-24T064009.yml
   scored_at: '2026-09-24'
   run_ts: 2026-09-24T064009
+========
+  scored_at: '2026-09-22'
+  run_ts: 2026-09-22T213221
+>>>>>>>> origin/main:kin/score-2026-09-22T213221.yml
   composite: 3.0
   band: minimal
   facets:
